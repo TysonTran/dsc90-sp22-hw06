@@ -1,16 +1,5 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/TysonTran/dsc90-sp22-hw06/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+<iframe src='./snow-map.html' width=800 height=600 frameBorder=0></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-<iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe>
-```
-
-<!-- <iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe> -->
 
