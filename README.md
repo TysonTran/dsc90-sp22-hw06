@@ -1,16 +1,16 @@
-# Homework 6 - History of Data Science
+## Welcome to GitHub Pages
 
-## Tyson Tran(tytran@ucsd.edu)
+You can use the [editor on GitHub](https://github.com/TysonTran/dsc90-sp22-hw06/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-## Question 1
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
 <iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe>
+```
 
-## Question 2
-
-<iframe src='../galton-fig.html' width=800 height=600 frameBorder=0></iframe>
-
-## Question 3
-
-<iframe src='../france-fig.html' width=800 height=600 frameBorder=0></iframe>
+<!-- <iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe> -->
 
