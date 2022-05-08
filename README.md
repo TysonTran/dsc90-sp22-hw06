@@ -1,39 +1,16 @@
-## Welcome to GitHub Pages
+# Homework 6 - History of Data Science
 
-You can use the [editor on GitHub](https://github.com/TysonTran/dsc90-sp22-hw06/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## Tyson Tran(tytran@ucsd.edu)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+## Question 1
 
 <iframe src='../snow-map.html' width=800 height=600 frameBorder=0></iframe>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Question 2
 
-### Jekyll Themes
+<iframe src='../galton-fig.html' width=800 height=600 frameBorder=0></iframe>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TysonTran/dsc90-sp22-hw06/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Question 3
 
-### Support or Contact
+<iframe src='../france-fig.html' width=800 height=600 frameBorder=0></iframe>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
